@@ -1,8 +1,16 @@
-<h2> Hi, I'm jood Al-muflihi ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Information technology <a>studint </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>learning <a> programing </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# Hi, I'm jood Al-muflihi ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+🎓 IT Student
+💻 Currently learning Python & AI  
+📚 Building projects step by step
+
+## 🌱 Currently Learning :
+ - Python fundamentals
+ - Problem solving
+ - AI basics
 
 
+  
 
+## 📫 Contact Me
+Coming soon...
 
