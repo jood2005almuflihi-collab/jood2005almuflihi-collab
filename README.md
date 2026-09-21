@@ -11,6 +11,4 @@
 
   
 
-## 📫 Contact Me
-Coming soon...
 
